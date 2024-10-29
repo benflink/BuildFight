@@ -1,0 +1,4 @@
+repository "BuildFight@LiveEnd@cloud"
+  path "/"
+    br "/main"
+    co "/main"
